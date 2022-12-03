@@ -8,8 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marquin-dev&layout=compact&langs_count=7&icon_color=141414&bg_color=F6F7F8&text_color=011627&title_color=141414"/>
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=marquin-dev&bg_color=F6F7F8&color=011627&title_color=141414&line=141414)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">
 <a href="https://www.linkedin.com/in/dev-marquin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-141414?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
