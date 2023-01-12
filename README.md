@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/devmarquinhos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devmarquinhos&show_icons=true&icon_color=141414&bg_color=F6F7F8&text_color=011627&title_color=141414&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmarquinhos&layout=compact&langs_count=7&icon_color=141414&bg_color=F6F7F8&text_color=011627&title_color=141414"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devmarquinhos&show_icons=true&icon_color=141414&bg_color=F6F7F8&text_color=011627&title_color=141414&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devmarquinhos&layout=compact&langs_count=7&icon_color=141414&bg_color=F6F7F8&text_color=011627&title_color=141414"/>
 </div>
 
 <div align="center">
