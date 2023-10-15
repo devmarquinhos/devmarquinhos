@@ -31,7 +31,6 @@
 ![Figma](https://img.shields.io/badge/-figma-0B080C?style=for-the-badge&logo=figma&logoColor=f6f7f8&labelColor=0B080C)&nbsp;
   
 ### Studying in this moment:
-![Flask](https://img.shields.io/badge/-Flask-0B080C?style=for-the-badge&logo=flask&labelColor=0B080C&textColor=0B080C)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-0B080C?style=for-the-badge&logo=express&labelColor=0B080C&textColor=0B080C)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-0B080C?style=for-the-badge&logo=node.js&labelColor=0B080C&textColor=0B080C)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0B080C?style=for-the-badge&logo=postgresql&labelColor=0B080C&textColor=0B080C)&nbsp;
